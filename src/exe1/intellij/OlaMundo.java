@@ -10,7 +10,7 @@ public class OlaMundo {
         int soma = a + b ;
         int sub  = a - b ;
 
-        System.out.println("Oo valor da soma é: "+soma);
+        System.out.println("O valor da soma é: "+soma);
         System.out.println("O valor da subtração é: "+sub);
     }
 }
